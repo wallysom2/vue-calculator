@@ -2,8 +2,6 @@
 
 A simple and user-friendly calculator built with Vue.js.
 
-![Vue.js Calculator](https://socialify.git.ci/wallysom2/vue-calculator/image?language=1&name=1&owner=1&theme=Light)
-
 ## Features
 
 - Addition
@@ -27,6 +25,9 @@ A simple and user-friendly calculator built with Vue.js.
 ## Live Demo
 
 You can see the live demo of this project at https://main--sparkling-macaron-8c15f3.netlify.app/
+
+[![vue calculator](https://www.linkpicture.com/q/Captura-de-tela-2023-02-09-051608-2.png)](https://main--sparkling-macaron-8c15f3.netlify.app/)
+
 
 ## Developer
 
